@@ -1,1 +1,56 @@
-
+{
+  "licenses": [
+    {
+      "key": "CSMD27QOGSW5PJBQVUC6U15YKU92CLS1",
+      "status": "active",
+      "expiry_date": "2030-12-31",
+      "allowed_ips": [
+        "102.101.11.87",
+        "31.6.50.174"
+      ],
+      "permissions": {
+        "rules-system": true,
+        "ems-application": true,
+        "police-application": true,
+        "ticket": true,
+        "application": true,
+        "support": true,
+        "vacation": true,
+        "welcomeroom": true
+      }
+    },
+    {
+      "key": "R6Team954328",
+      "status": "active",
+      "expiry_date": "2029-05-15",
+      "allowed_ips": [
+        "127.0.0.1",
+        "105.191.56.194"
+      ],
+      "permissions": {
+        "rules-system": true,
+        "ems-application": false,
+        "police-application": true,
+        "ticket": true
+      }
+    },
+    {
+      "key": "R6Team",
+      "status": "active",
+      "expiry_date": "Lifetime",
+      "allowed_ips": [
+        "105.191.75.177"
+      ],
+      "permissions": {
+        "rules-system": true,
+        "ems-application": true,
+        "police-application": true,
+        "ticket": true,
+        "application": true,
+        "support": true,
+        "vacation": true,
+        "welcomeroom": true
+      }
+    }
+  ]
+}
