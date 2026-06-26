@@ -3,7 +3,7 @@
     {
       "key": "CSMD27QOGSW5PJBQVUC6U15YKU92CLS1",
       "status": "active",
-      "expiry_date": "2030-12-31",
+      "expiry_date": "9999-12-31",
       "allowed_ips": [
         "102.101.11.87",
         "31.6.50.174"
