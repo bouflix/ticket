@@ -6,7 +6,8 @@
       "expiry_date": "9999-12-31",
       "allowed_ips": [
         "5.31.247.204",
-        "31.6.50.174"
+        "31.6.50.174",
+        "192.168.70.173"
       ],
       "permissions": {
         "rules-system": true,
