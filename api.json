@@ -20,18 +20,22 @@
       }
     },
     {
-      "key": "R6Team954328",
+      "key": "JN5X8LHW4V0Q1",
       "status": "active",
-      "expiry_date": "2029-05-15",
+      "expiry_date": "9999-12-31",
       "allowed_ips": [
-        "127.0.0.1",
-        "105.191.56.194"
+        "185.223.31.33",
+        "31.6.50.174"
       ],
       "permissions": {
         "rules-system": true,
-        "ems-application": false,
+        "ems-application": true,
         "police-application": true,
-        "ticket": true
+        "ticket": true,
+        "application": true,
+        "support": true,
+        "vacation": true,
+        "welcomeroom": true
       }
     },
     {
