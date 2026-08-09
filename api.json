@@ -22,6 +22,24 @@
       }
     },
     {
+      "key": "WMCSMD27QOGSW5PJBQ",
+      "status": "active",
+      "expiry_date": "9999-12-31",
+      "allowed_ips": [
+        "127.0.0.1"
+      ],
+      "permissions": {
+        "rules-system": true,
+        "ems-application": true,
+        "police-application": true,
+        "ticket": true,
+        "application": true,
+        "support": true,
+        "vacation": true,
+        "welcomeroom": true
+      }
+    },
+    {
       "key": "JN5X8LHW4V0Q1",
       "status": "active",
       "expiry_date": "9999-12-31",
