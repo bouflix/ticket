@@ -26,7 +26,7 @@
       "status": "active",
       "expiry_date": "9999-12-31",
       "allowed_ips": [
-        "127.0.0.13,
+        "127.0.0.13",
         "185.223.31.33",
       ],
       "permissions": {
