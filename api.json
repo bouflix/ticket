@@ -27,7 +27,7 @@
       "expiry_date": "9999-12-31",
       "allowed_ips": [
         "127.0.0.1",
-        "185.223.31.33",
+        "185.223.31.33"
       ],
       "permissions": {
         "rules-system": true,
